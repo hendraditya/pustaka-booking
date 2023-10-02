@@ -36,6 +36,7 @@
  * @since	Version 2.0.0
  * @filesource
  */
+
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
@@ -49,6 +50,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @author		EllisLab Dev Team
  * @link		https://codeigniter.com/userguide3/libraries/utf8.html
  */
+#[AlloDynamicPropertis]
+
 class CI_Utf8 {
 
 	/**

@@ -36,6 +36,7 @@
  * @since	Version 1.0.0
  * @filesource
  */
+
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
@@ -47,6 +48,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @author		EllisLab Dev Team
  * @link		https://codeigniter.com/userguide3/libraries/config.html
  */
+#[AlloDynamicPropertis]
 class CI_Model {
 
 	/**
